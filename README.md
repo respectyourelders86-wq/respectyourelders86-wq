@@ -54,30 +54,28 @@ My current focus is helping organisations move from isolated AI experimentation 
 - Cost-aware technology selection
 - Change management and workforce enablement
 
-## Enterprise AI Adoption Journey
+## Enterprise AI Enablement Pattern
 
-The following public-safe proof-of-concept shows how I think about moving an organisation from isolated AI experiments into governed, useful delivery.
+This public-safe pattern shows how I approach the move from AI experimentation to governed, useful adoption.
 
 ```mermaid
 flowchart LR
-    A["Business priorities<br/>Use cases and outcomes"] --> B["Trusted knowledge<br/>Documents and operational data"]
-    B --> C["Data foundation<br/>Postgres, Supabase and semantic retrieval"]
-    C --> D["AI platform<br/>Approved models and Agno runtime"]
-    D --> E["Agents and workflows<br/>Assist, route and automate"]
-    E --> F["Enterprise integration<br/>APIs, GitHub, cloud and business apps"]
-    F --> G["Human control<br/>Review, approval and escalation"]
-    G --> H["Measured outcomes<br/>Adoption, productivity and improvement"]
+    A["Business priorities<br/>and use cases"] --> B["Trusted knowledge<br/>and data"]
+    B --> C["Secure enterprise<br/>environment"]
+    C --> D["AI-assisted workflows<br/>and internal tools"]
+    D --> E["Human review<br/>and operational integration"]
+    E --> F["Adoption, measurement<br/>and continuous improvement"]
 
-    I["Governance and assurance<br/>Identity | Access | Evidence | Evaluation | Cost | Monitoring"]
-    I --- B
-    I --- C
-    I --- D
-    I --- E
-    I --- F
-    I --- G
+    G["Governance | Access | Risk review | Evaluation | Cost awareness | Monitoring"]
+    G -.-> A
+    G -.-> B
+    G -.-> C
+    G -.-> D
+    G -.-> E
+    G -.-> F
 ```
 
-This pattern connects business goals to trusted information, approved AI services, coordinated workflows, enterprise systems, human oversight, and measurable improvement. The technologies can change; the operating disciplines remain essential.
+The technologies can change; the disciplines of ownership, evidence, access, review, operational support, and measurement remain essential.
 
 ## Working Principles
 
@@ -89,30 +87,18 @@ This pattern connects business goals to trusted information, approved AI service
 6. Document what works and make it repeatable.
 7. Measure adoption and improve continuously.
 
-## Public Portfolio
+## Selected Public Work
 
-This profile will contain employer-safe examples covering:
+### [Enterprise AI Enablement Playbook](https://github.com/respectyourelders86-wq/enterprise-ai-enablement-playbook)
 
-- AI workflow rollout and adoption playbooks
-- Technology change and governance templates
-- Operational runbooks and service-readiness checklists
-- Generic automation and integration examples
-- Knowledge-management and evidence practices
+A practical, employer-safe collection of patterns for AI use-case discovery, knowledge and context readiness, governance, controlled pilots, human review, adoption, monitoring, and cost awareness.
 
-All examples use fictional or demonstration data and communicate practical thinking without exposing confidential systems or information.
-
-## Public GitHub Activity
-
-<div align="center">
-
-![Benjamin Zulu's GitHub activity](https://github-readme-stats.vercel.app/api?username=respectyourelders86-wq&show_icons=true&hide_border=true&include_all_commits=false&count_private=false&title_color=0E4D64&icon_color=2E7D32&text_color=333333&bg_color=00000000)
-
-</div>
-
-The public portfolio is being built deliberately. Activity shown here reflects public, employer-safe work only.
+All examples use fictional or demonstration scenarios and communicate practical thinking without exposing confidential systems or information.
 
 ## Connect
 
 I am interested in roles spanning AI enablement, technology transformation, solution architecture, enterprise platforms, workflow improvement, and technical adoption.
 
 - Location: Melbourne, Australia
+
+
