@@ -2,9 +2,9 @@
 
 # Ben Zulu
 
-### Enterprise Technology | AI Enablement | Workflow Transformation
+### Digital & Technology Strategy | Enterprise IT | AI Enablement
 
-I help teams turn emerging technology into practical, repeatable, and well-governed ways of working.
+I help organisations turn technology and AI opportunities into secure, practical, and well-governed ways of working.
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=respectyourelders86-wq&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
@@ -16,20 +16,33 @@ I help teams turn emerging technology into practical, repeatable, and well-gover
 
 ## About Me
 
-I am an enterprise technology and AI enablement professional with more than 12 years of experience across complex business environments. My background combines technical operations, stakeholder engagement, escalation management, cloud and SaaS support, documentation, mentoring, and technology adoption.
+I am an enterprise technology and AI enablement professional with more than 12 years of experience across complex business environments. My background spans enterprise support and service delivery, cloud and SaaS platforms, infrastructure, identity and access, stakeholder engagement, escalation management, documentation, mentoring, and technology adoption.
 
-My current focus is helping organisations move from isolated AI experimentation to useful operating practices: clear use cases, trusted information, structured workflows, responsible review, measurable outcomes, and support that helps people adopt new tools confidently.
+My current focus is the bridge between strategy and execution: understanding the business problem, improving the underlying workflow and information, selecting fit-for-purpose technology, testing safely, establishing governance, and helping people adopt the resulting service with confidence.
 
 ## What I Bring
 
-- AI adoption, enablement, and practical workflow design
-- Enterprise technology operations and service improvement
+- Digital and technology strategy translated into practical delivery priorities
+- Enterprise technology operations, service improvement, and operational readiness
+- AI adoption, workflow redesign, and responsible enablement
 - Business-to-technology translation and requirements discovery
-- Knowledge management, documentation, and reusable playbooks
-- Responsible AI practices, human review, and governance checkpoints
-- Stakeholder engagement across technical and non-technical teams
-- Proof-of-concept development and lightweight automation
-- Training, mentoring, and adoption support
+- Knowledge management, data readiness, retrieval, and reusable playbooks
+- Human review, access control, evidence, and governance checkpoints
+- Proof-of-concept development, automation, and realistic testing
+- Stakeholder engagement, training, mentoring, and change support
+
+## Enterprise Technology and AI Practice
+
+| Domain | Public-safe evidence of practice |
+|---|---|
+| Technology foundations | Cloud and SaaS platforms, Windows and Linux systems, endpoint and service operations, identity and access, and private infrastructure labs |
+| Data and knowledge | Structured ingestion, relational data, semantic retrieval, source provenance, RAG patterns, and graph-aware knowledge mapping |
+| AI and automation | Bounded agent workflows, orchestration patterns, reusable task interfaces, human approvals, evaluation, and observable handoffs |
+| Identity lab | Active Directory-compatible directory services using Samba, role-scoped access, and controlled authentication experiments |
+| Delivery assurance | End-to-end journey testing, API and state verification, change control, rollback planning, incident readiness, and audit evidence |
+| Governance readiness | Security, availability, and confidentiality control mapping aligned to SOC 2 readiness; no certification claim |
+
+My hands-on lab work uses private, self-hosted environments so I can test integration, failure handling, recovery, observability, and governance without exposing employer or client systems. Public examples are deliberately sanitised and use fictional or demonstration data.
 
 ## Technology
 
@@ -44,29 +57,17 @@ My current focus is helping organisations move from isolated AI experimentation 
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce" />
 </p>
 
-## Current Interests
-
-- AI transformation and enterprise adoption
-- Workflow automation and operational improvement
-- Reliable knowledge and retrieval practices
-- AI-assisted developer and business workflows
-- Evaluation, evidence, and human oversight
-- Cost-aware technology selection
-- Change management and workforce enablement
-
 ## Enterprise AI Enablement Pattern
-
-This public-safe pattern shows how I approach the move from AI experimentation to governed, useful adoption.
 
 ```mermaid
 flowchart LR
-    A["Business priorities<br/>and use cases"] --> B["Trusted knowledge<br/>and data"]
-    B --> C["Secure enterprise<br/>environment"]
-    C --> D["AI-assisted workflows<br/>and internal tools"]
-    D --> E["Human review<br/>and operational integration"]
-    E --> F["Adoption, measurement<br/>and continuous improvement"]
+    A["Business strategy<br/>priorities and outcomes"] --> B["Trusted knowledge<br/>data and provenance"]
+    B --> C["Secure technology foundation<br/>identity, platforms and access"]
+    C --> D["AI-assisted workflows<br/>agents and internal tools"]
+    D --> E["Assurance and human control<br/>testing, review and rollback"]
+    E --> F["Adoption and operations<br/>support, measurement and improvement"]
 
-    G["Governance | Access | Risk review | Evaluation | Cost awareness | Monitoring"]
+    G["Governance | Security | Availability | Confidentiality | Cost | Evidence"]
     G -.-> A
     G -.-> B
     G -.-> C
@@ -75,30 +76,31 @@ flowchart LR
     G -.-> F
 ```
 
-The technologies can change; the disciplines of ownership, evidence, access, review, operational support, and measurement remain essential.
+The technologies can change. Clear ownership, trusted information, secure access, evidence, operational support, and measurable outcomes remain essential.
 
 ## Working Principles
 
-1. Start with the business problem.
-2. Understand the people and workflow involved.
-3. Build the smallest useful solution.
-4. Make ownership, review, and risk visible.
-5. Test under realistic operating conditions.
-6. Document what works and make it repeatable.
+1. Start with the business problem and desired outcome.
+2. Understand the people, information, systems, and workflow involved.
+3. Build the smallest useful and supportable solution.
+4. Make ownership, access, review, risk, and cost visible.
+5. Test realistic user journeys and failure conditions.
+6. Document decisions, controls, rollback, and operational support.
 7. Measure adoption and improve continuously.
 
 ## Selected Public Work
 
 ### [Enterprise AI Enablement Playbook](https://github.com/respectyourelders86-wq/enterprise-ai-enablement-playbook)
 
-A practical, employer-safe collection of patterns for AI use-case discovery, knowledge and context readiness, governance, controlled pilots, human review, adoption, monitoring, and cost awareness.
+A practical, employer-safe collection of patterns for AI use-case discovery, enterprise technology foundations, knowledge and context readiness, governance, controlled pilots, human review, adoption, monitoring, and cost awareness.
 
-All examples use fictional or demonstration scenarios and communicate practical thinking without exposing confidential systems or information.
+All public examples use fictional or demonstration scenarios. They show the operating disciplines without exposing confidential systems, source code, credentials, private infrastructure, or proprietary architecture.
 
 ## Connect
 
-I am interested in roles spanning AI enablement, technology transformation, solution architecture, enterprise platforms, workflow improvement, and technical adoption.
+I am interested in leadership and senior roles spanning digital and technology strategy, enterprise IT, AI enablement, technology transformation, solution architecture, workflow improvement, and responsible adoption.
 
 - Location: Melbourne, Australia
+- LinkedIn: [linkedin.com/in/benjaminzulu](https://au.linkedin.com/in/benjaminzulu)
 
 
