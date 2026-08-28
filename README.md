@@ -2,9 +2,9 @@
 
 # Ben Zulu
 
-### Digital & Technology Strategy | Enterprise IT | AI Enablement
+### Founder, Born 2 Win Pty Ltd · Enterprise Technology · AI Systems · Product Ventures
 
-I help organisations turn technology and AI opportunities into secure, practical, and well-governed ways of working.
+I build practical AI-enabled businesses and operating systems that connect strategy, software, data, automation, governance, and real-world delivery.
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=respectyourelders86-wq&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
@@ -14,22 +14,49 @@ I help organisations turn technology and AI opportunities into secure, practical
 
 </div>
 
-## About Me
+## About
 
-I am an enterprise technology and AI enablement professional with more than 12 years of experience across complex business environments. My background spans enterprise support and service delivery, cloud and SaaS platforms, infrastructure, identity and access, stakeholder engagement, escalation management, documentation, mentoring, and technology adoption.
+I am the founder of **Born 2 Win Pty Ltd**, an Australian venture company focused on building useful products, AI-enabled workflows, internal operating systems, and digital businesses.
 
-My current focus is the bridge between strategy and execution: understanding the business problem, improving the underlying workflow and information, selecting fit-for-purpose technology, testing safely, establishing governance, and helping people adopt the resulting service with confidence.
+My background spans more than 12 years in enterprise technology across infrastructure, SaaS platforms, identity and access, service operations, support, stakeholder engagement, escalation management, documentation, and technology adoption.
 
-## What I Bring
+My current work sits at the intersection of **business design and technical execution**: defining the outcome, structuring the workflow, building the software and data layer, introducing AI where it adds measurable leverage, and keeping human ownership, evidence, security, and operational control visible.
 
-- Digital and technology strategy translated into practical delivery priorities
-- Enterprise technology operations, service improvement, and operational readiness
-- AI adoption, workflow redesign, and responsible enablement
-- Business-to-technology translation and requirements discovery
-- Knowledge management, data readiness, retrieval, and reusable playbooks
-- Human review, access control, evidence, and governance checkpoints
-- Proof-of-concept development, automation, and realistic testing
-- Stakeholder engagement, training, mentoring, and change support
+## Current Focus
+
+### Born 2 Win — AI Operating Environment
+
+A private, multi-agent operating environment for coordinating business, engineering, research, design, operations, and evidence across multiple ventures.
+
+Public-safe areas of exploration include:
+
+- bounded AI agents and orchestrated workflows
+- human approval gates and evidence-led execution
+- retrieval, structured memory, provenance, and knowledge systems
+- Linux and cloud-hosted runtime environments
+- secure service integration and operational observability
+- reusable skills, task contracts, and agent handoffs
+
+### Respect Your Elders
+
+**Respect Your Elders (RYE)** is a premium apparel venture built around legacy, respect, roots, and intergenerational connection.
+
+The product work combines brand design with practical manufacturing systems: garment specification, fabric research, supplier qualification, sample control, packaging, intellectual-property protection, and e-commerce delivery.
+
+> From seed to ancient tree, we are each other's elder.
+
+### AI Enablement & Product Engineering
+
+I use AI as part of a governed delivery system rather than as a standalone chatbot. Typical patterns include:
+
+- problem and workflow discovery
+- structured context and memory
+- model routing by task
+- agent/tool orchestration
+- database-backed state
+- human review and approval
+- testing, rollback, and audit evidence
+- continuous refinement from real outcomes
 
 ## Enterprise Technology and AI Practice
 
@@ -37,70 +64,65 @@ My current focus is the bridge between strategy and execution: understanding the
 |---|---|
 | Technology foundations | Cloud and SaaS platforms, Windows and Linux systems, endpoint and service operations, identity and access, and private infrastructure labs |
 | Data and knowledge | Structured ingestion, relational data, semantic retrieval, source provenance, RAG patterns, and graph-aware knowledge mapping |
-| AI and automation | Bounded agent workflows, orchestration patterns, reusable task interfaces, human approvals, evaluation, and observable handoffs |
-| Identity lab | Active Directory-compatible directory services using Samba, role-scoped access, and controlled authentication experiments |
-| Delivery assurance | End-to-end journey testing, API and state verification, change control, rollback planning, incident readiness, and audit evidence |
-| Governance readiness | Security, availability, and confidentiality control mapping aligned to SOC 2 readiness; no certification claim |
-
-My hands-on lab work uses private, self-hosted environments so I can test integration, failure handling, recovery, observability, and governance without exposing employer or client systems. Public examples are deliberately sanitised and use fictional or demonstration data.
+| AI and automation | Bounded agent workflows, orchestration, reusable task interfaces, human approvals, evaluation, and observable handoffs |
+| Product engineering | Web applications, APIs, databases, automation, prototyping, technical documentation, and iterative delivery |
+| Delivery assurance | End-to-end journey testing, API/state verification, change control, rollback planning, incident readiness, and audit evidence |
+| Governance readiness | Security, availability, confidentiality, cost, access control, human review, and evidence checkpoints |
 
 ## Technology
 
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" alt="Microsoft 365" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white" alt="ServiceNow" />
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
 </p>
 
-## Enterprise AI Enablement Pattern
+## Operating Pattern
 
 ```mermaid
 flowchart LR
-    A["Business strategy<br/>priorities and outcomes"] --> B["Trusted knowledge<br/>data and provenance"]
-    B --> C["Secure technology foundation<br/>identity, platforms and access"]
-    C --> D["AI-assisted workflows<br/>agents and internal tools"]
-    D --> E["Assurance and human control<br/>testing, review and rollback"]
-    E --> F["Adoption and operations<br/>support, measurement and improvement"]
+    A["Business goal"] --> B["Trusted context"]
+    B --> C["Secure systems"]
+    C --> D["AI-assisted workflow"]
+    D --> E["Human approval"]
+    E --> F["Evidence + delivery"]
+    F --> G["Measure + improve"]
 
-    G["Governance | Security | Availability | Confidentiality | Cost | Evidence"]
-    G -.-> A
-    G -.-> B
-    G -.-> C
-    G -.-> D
-    G -.-> E
-    G -.-> F
+    H["Governance | Security | Cost | Provenance"]
+    H -.-> A
+    H -.-> B
+    H -.-> C
+    H -.-> D
+    H -.-> E
+    H -.-> F
+    H -.-> G
 ```
-
-The technologies can change. Clear ownership, trusted information, secure access, evidence, operational support, and measurable outcomes remain essential.
 
 ## Working Principles
 
 1. Start with the business problem and desired outcome.
-2. Understand the people, information, systems, and workflow involved.
-3. Build the smallest useful and supportable solution.
-4. Make ownership, access, review, risk, and cost visible.
-5. Test realistic user journeys and failure conditions.
-6. Document decisions, controls, rollback, and operational support.
-7. Measure adoption and improve continuously.
+2. Keep ownership and decision rights explicit.
+3. Give AI the minimum authority required for the task.
+4. Separate persistent truth from temporary conversation context.
+5. Preserve evidence for important decisions and changes.
+6. Test realistic journeys, failure conditions, and rollback paths.
+7. Build the smallest useful system, then improve from real use.
 
 ## Selected Public Work
 
 ### [Enterprise AI Enablement Playbook](https://github.com/respectyourelders86-wq/enterprise-ai-enablement-playbook)
 
-A practical, employer-safe collection of patterns for AI use-case discovery, enterprise technology foundations, knowledge and context readiness, governance, controlled pilots, human review, adoption, monitoring, and cost awareness.
+A public-safe collection of patterns for AI use-case discovery, knowledge and context readiness, secure technology foundations, controlled pilots, governance, human review, adoption, monitoring, and cost awareness.
 
-All public examples use fictional or demonstration scenarios. They show the operating disciplines without exposing confidential systems, source code, credentials, private infrastructure, or proprietary architecture.
+Public repositories deliberately exclude private infrastructure details, credentials, proprietary agent configuration, personal data, and confidential operating information.
 
 ## Connect
 
-I am interested in leadership and senior roles spanning digital and technology strategy, enterprise IT, AI enablement, technology transformation, solution architecture, workflow improvement, and responsible adoption.
-
-- Location: Melbourne, Australia
-- LinkedIn: [linkedin.com/in/benjaminzulu](https://au.linkedin.com/in/benjaminzulu)
-
+- **Location:** Melbourne, Australia
+- **LinkedIn:** [linkedin.com/in/benjaminzulu](https://au.linkedin.com/in/benjaminzulu)
 
