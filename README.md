@@ -1,128 +1,93 @@
-<div align="center">
-
 # Ben Zulu
 
-### Founder, Born 2 Win Pty Ltd · Enterprise Technology · AI Systems · Product Ventures
+### Enterprise Technology · Applied AI Workflows · AI Enablement
 
-I build practical AI-enabled businesses and operating systems that connect strategy, software, data, automation, governance, and real-world delivery.
+I turn operational problems into practical technology workflows, drawing on more than 12 years in enterprise IT and hands-on work with AI assistants, automation and internal tools.
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=respectyourelders86-wq&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Enterprise%20Technology-12%2B%20Years-16324F?style=flat-square" alt="12+ years enterprise technology" />
-  <img src="https://img.shields.io/badge/Location-Melbourne%2C%20Australia-2E7D32?style=flat-square" alt="Melbourne, Australia" />
-</p>
+My background includes enterprise support and service delivery, cloud and SaaS platforms, identity and access, escalation management, stakeholder coordination, documentation and mentoring. I bring that operational perspective to AI: understand the work, choose an appropriate tool, test its behaviour and make sure someone can support it.
 
-</div>
+I am also the founder of **Born 2 Win Pty Ltd**, where I am developing a private AI-assisted operating environment alongside product ventures.
 
-## About
+## Selected workflow experience
 
-I am the founder of **Born 2 Win Pty Ltd**, an Australian venture company focused on building useful products, AI-enabled workflows, internal operating systems, and digital businesses.
+### A knowledge-grounded support assistant
 
-My background spans more than 12 years in enterprise technology across infrastructure, SaaS platforms, identity and access, service operations, support, stakeholder engagement, escalation management, documentation, and technology adoption.
+**Problem:** A useful support assistant needs a defined remit and trustworthy sources, not just plausible answers.
 
-My current work sits at the intersection of **business design and technical execution**: defining the outcome, structuring the workflow, building the software and data layer, introducing AI where it adds measurable leverage, and keeping human ownership, evidence, security, and operational control visible.
+**My contribution:** In my workplace, I designed and tested a Microsoft Copilot Studio support agent using approved Microsoft 365 and SharePoint sources. I defined its purpose, instructions, tools, triggers, source references, escalation paths and human-review requirements.
 
-## Current Focus
+**Testing:** I used test conversations and Evaluate to inspect source alignment, completeness and response behaviour, then refined and retested the agent. This is support-agent design and evaluation experience, not a claim of company-wide deployment.
 
-### Born 2 Win — AI Operating Environment
+### Internal diagnostics with honest status reporting
 
-A private, multi-agent operating environment for coordinating business, engineering, research, design, operations, and evidence across multiple ventures.
+**Problem:** Repeated manual checks made it difficult to know which systems needed attention and whether a report was useful.
 
-Public-safe areas of exploration include:
+**My contribution:** I defined requirements for scheduled checks, clear ownership, stale or unknown status, and low-cost reporting. I worked with coding agents on deterministic JavaScript/Node.js checks and Python diagnostic tooling, and helped validate the results.
 
-- bounded AI agents and orchestrated workflows
-- human approval gates and evidence-led execution
-- retrieval, structured memory, provenance, and knowledge systems
-- Linux and cloud-hosted runtime environments
-- secure service integration and operational observability
-- reusable skills, task contracts, and agent handoffs
+**Result and lesson:** Individual components were internally deployed and exercised through scheduled runs. Coverage and message delivery still required further work. A successful scheduler run was not enough: we also had to inspect the output and whether it reached its destination.
 
-### Respect Your Elders
+### A narrowly scoped assistant tool
 
-**Respect Your Elders (RYE)** is a premium apparel venture built around legacy, respect, roots, and intergenerational connection.
+**Problem:** An assistant needed a useful read operation without unrestricted access to the surrounding environment.
 
-The product work combines brand design with practical manufacturing systems: garment specification, fabric research, supplier qualification, sample control, packaging, intellectual-property protection, and e-commerce delivery.
+**My contribution:** I specified the permitted action and approval boundary, then worked with coding agents on a JavaScript/Node.js SDK integration with input restrictions, time limits and bounded output.
 
-> From seed to ancient tree, we are each other's elder.
+**Testing:** Positive and negative checks exercised permitted requests and rejection of an unapproved destination. The result was a restricted internal integration, not a general-purpose administrator.
 
-### AI Enablement & Product Engineering
+### Context-aware assistants and structured handoffs
 
-I use AI as part of a governed delivery system rather than as a standalone chatbot. Typical patterns include:
+**Problem:** Repeating project context wastes effort, while old notes can send an assistant in the wrong direction.
 
-- problem and workflow discovery
-- structured context and memory
-- model routing by task
-- agent/tool orchestration
-- database-backed state
-- human review and approval
-- testing, rollback, and audit evidence
-- continuous refinement from real outcomes
+**My contribution:** I configured role-based assistants with defined responsibilities, separate workspaces, curated context and explicit handoffs. I used fresh-session checks to assess whether the required context loaded, and participated in correcting an oversized-context problem.
 
-## Enterprise Technology and AI Practice
+**Current work:** I am testing Slack-based communication between assistants and refining how task ownership, acceptance and failure handling are recorded. Communication, completed work and recovery are separate acceptance questions. Persistent notes alone do not establish reliable memory.
 
-| Domain | Public-safe evidence of practice |
-|---|---|
-| Technology foundations | Cloud and SaaS platforms, Windows and Linux systems, endpoint and service operations, identity and access, and private infrastructure labs |
-| Data and knowledge | Structured ingestion, relational data, semantic retrieval, source provenance, RAG patterns, and graph-aware knowledge mapping |
-| AI and automation | Bounded agent workflows, orchestration, reusable task interfaces, human approvals, evaluation, and observable handoffs |
-| Product engineering | Web applications, APIs, databases, automation, prototyping, technical documentation, and iterative delivery |
-| Delivery assurance | End-to-end journey testing, API/state verification, change control, rollback planning, incident readiness, and audit evidence |
-| Governance readiness | Security, availability, confidentiality, cost, access control, human review, and evidence checkpoints |
+These last three examples are independent internal tools and prototypes. They are separate from my employment and do not represent commercial client deployments.
 
-## Technology
+## Agent coordination and supervision
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
-</p>
+My independent practice includes managing work across role-based assistants, not just asking a single chatbot for answers. I treat each agent as a defined contributor, with a remit, an owner and a result to verify.
 
-## Operating Pattern
+- **Briefing:** turn an unclear request into an objective, relevant context, permitted actions, expected output and acceptance checks.
+- **Communication:** use focused questions, clarification and structured handoffs; distinguish acknowledgement from completed work.
+- **Review:** challenge unsupported answers, compare evidence, and separate implementation from review rather than accept automatic agreement.
+- **Improvement:** turn useful feedback and recurring mistakes into revised instructions, reusable skills, checklists or lessons, then test whether the next attempt improves.
+- **Continuity:** maintain project decisions and next actions in scoped records, check their freshness, and verify that an assistant actually loaded the relevant context.
 
-```mermaid
-flowchart LR
-    A["Business goal"] --> B["Trusted context"]
-    B --> C["Secure systems"]
-    C --> D["AI-assisted workflow"]
-    D --> E["Human approval"]
-    E --> F["Evidence + delivery"]
-    F --> G["Measure + improve"]
+I use ongoing discussion to refine the work. My meeting discipline is to capture decisions, owners and follow-up checks so useful context does not remain only in conversation. This develops the workflow around the agent; it does not retrain the underlying model or remove human accountability.
 
-    H["Governance | Security | Cost | Provenance"]
-    H -.-> A
-    H -.-> B
-    H -.-> C
-    H -.-> D
-    H -.-> E
-    H -.-> F
-    H -.-> G
-```
+## How I build with AI
 
-## Working Principles
+I define the business problem, intended user, scope, acceptance conditions, cost trade-offs and approval boundaries. Coding agents generate substantial implementation and tests. I work through the results, challenge failures and use a separate review step before accepting consequential changes.
 
-1. Start with the business problem and desired outcome.
-2. Keep ownership and decision rights explicit.
-3. Give AI the minimum authority required for the task.
-4. Separate persistent truth from temporary conversation context.
-5. Preserve evidence for important decisions and changes.
-6. Test realistic journeys, failure conditions, and rollback paths.
-7. Build the smallest useful system, then improve from real use.
+The capabilities I focus on are:
 
-## Selected Public Work
+- **Python and JavaScript/Node.js:** operational scripting, diagnostics and AI-assisted tool integration.
+- **Knowledge and retrieval:** approved-source grounding, retrieval-augmented generation (RAG) patterns, provenance, curated memory and freshness checks.
+- **Agent configuration:** responsibilities, permitted tools, context, escalation, human review and continuity tests.
+- **Agent management:** precise task briefs, evidence-based feedback, cross-agent handoffs, reviewed lessons and follow-up checks.
+- **Workflow delivery:** task decomposition, structured handoffs, positive and negative tests, failure records and rollback planning.
+- **AI adoption:** connecting a useful use case to guidance, support ownership and evidence for the next decision.
 
-### [Enterprise AI Enablement Playbook](https://github.com/respectyourelders86-wq/enterprise-ai-enablement-playbook)
+I am continuing to deepen my TypeScript application-development practice. I distinguish that learning from established operational scripting and from software generated with coding-agent assistance.
 
-A public-safe collection of patterns for AI use-case discovery, knowledge and context readiness, secure technology foundations, controlled pilots, governance, human review, adoption, monitoring, and cost awareness.
+## Public portfolio
 
-Public repositories deliberately exclude private infrastructure details, credentials, proprietary agent configuration, personal data, and confidential operating information.
+[Enterprise AI Enablement Playbook](https://github.com/respectyourelders86-wq/enterprise-ai-enablement-playbook)
+
+The playbook contains generic and fictional examples of use-case discovery, knowledge readiness, controlled pilots, human review and operational adoption. These templates illustrate the method; they are not client case studies or production results.
+
+I can discuss the decisions, test approach and lessons from my independent work, using sanitized examples. Private configurations, employer information, credentials and proprietary source remain private.
+
+## Founder and product interests
+
+Through Born 2 Win, I am exploring how small teams can use AI-assisted workflows to build and support useful products. **Respect Your Elders** is my apparel venture, bringing together brand development, product research and e-commerce preparation.
+
+My longer-term interest is helping organisations adopt useful agents within their own approved tools, data boundaries and support model.
 
 ## Connect
 
+I am interested in roles across applied AI solutions, AI adoption and enablement, technical delivery and support, and workflow automation.
+
 - **Location:** Melbourne, Australia
 - **LinkedIn:** [linkedin.com/in/benjaminzulu](https://au.linkedin.com/in/benjaminzulu)
-
