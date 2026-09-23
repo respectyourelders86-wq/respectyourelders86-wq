@@ -44,6 +44,15 @@ I am also the founder of **Born 2 Win Pty Ltd**, where I am developing a private
 
 These last three examples are independent internal tools and prototypes. They are separate from my employment and do not represent commercial client deployments.
 
+## Dated internal agent case studies
+
+In my independent business project, I direct supervised agent workflows that use approved context, perform bounded work and return results for separate review. Agents generate substantial implementation and tests; I set the operating direction and require evidence before acceptance.
+
+- **[Verification handoff, 23 September 2026](https://github.com/respectyourelders86-wq/enterprise-ai-enablement-playbook/blob/main/case-studies/verification-handoff.md):** a management agent assigned a failed package to a builder; a separate reviewer tested the repaired copy. All 13 tests passed in the receiving environment, and deliberately altered inputs were rejected. This was a completed internal delivery episode.
+- **[Context recovery, 23 September 2026](https://github.com/respectyourelders86-wq/enterprise-ai-enablement-playbook/blob/main/case-studies/context-recovery.md):** a fresh assistant retrieved an approved handoff, reconciled an old snapshot with a later completion update and left unmeasured health unknown. This was an accepted bounded proof of concept.
+
+These are sanitised accounts of real internal work, separate from employment and commercial client delivery. The wider runtime remains under integration; neither example establishes enterprise adoption or measured business ROI.
+
 ## Agent coordination and supervision
 
 My independent practice includes managing work across role-based assistants, not just asking a single chatbot for answers. I treat each agent as a defined contributor, with a remit, an owner and a result to verify.
@@ -75,7 +84,7 @@ I am continuing to deepen my TypeScript application-development practice. I dist
 
 [Enterprise AI Enablement Playbook](https://github.com/respectyourelders86-wq/enterprise-ai-enablement-playbook)
 
-The playbook contains generic and fictional examples of use-case discovery, knowledge readiness, controlled pilots, human review and operational adoption. These templates illustrate the method; they are not client case studies or production results.
+The Enterprise AI Enablement Playbook contains generic templates and fictional teaching scenarios. A separately labelled case-study collection describes dated, sanitised results from my independent internal work. Each case identifies my contribution, work performed by agents, demonstrated results and limitations. The templates are not evidence of delivery; the factual cases are not employer or client implementations.
 
 I can discuss the decisions, test approach and lessons from my independent work, using sanitized examples. Private configurations, employer information, credentials and proprietary source remain private.
 
@@ -91,3 +100,4 @@ I am interested in roles across applied AI solutions, AI adoption and enablement
 
 - **Location:** Melbourne, Australia
 - **LinkedIn:** [linkedin.com/in/benjaminzulu](https://au.linkedin.com/in/benjaminzulu)
+
